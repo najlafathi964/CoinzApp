@@ -1,0 +1,9 @@
+<svg id="neo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17.134" height="18" viewBox="0 0 17.134 18">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.022" y1="0.856" x2="0.748" y2="0.331" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#beea2e"/>
+      <stop offset="1" stop-color="#52ba00"/>
+    </linearGradient>
+  </defs>
+  <path id="Shape" d="M0,15.15V3.421l6.781,2.85V18Zm10.079-2.606V5.367l7.055-2.254V14.987ZM.326,3.14,10.263,0l6.689,2.85L7.045,6.009Z" fill="url(#linear-gradient)"/>
+</svg>

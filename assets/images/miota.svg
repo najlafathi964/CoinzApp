@@ -1,0 +1,59 @@
+<svg id="miota" xmlns="http://www.w3.org/2000/svg" width="22" height="18" viewBox="0 0 22 18">
+  <ellipse id="Oval" cx="11" cy="9" rx="11" ry="9"/>
+  <g id="Group" transform="translate(2.2 2.16)">
+    <ellipse id="Oval-2" cx="0.997" cy="0.816" rx="0.997" ry="0.816" transform="translate(11.568 0)" fill="#fff"/>
+    <ellipse id="Oval-3" cx="0.844" cy="0.691" rx="0.844" ry="0.691" transform="translate(11.993 2.265)" fill="#fff"/>
+    <ellipse id="Oval-4" cx="0.842" cy="0.689" rx="0.842" ry="0.689" transform="translate(14.208 2.525)" fill="#fff"/>
+    <ellipse id="Oval-5" cx="0.72" cy="0.589" rx="0.72" ry="0.589" transform="translate(14.059 4.45)" fill="#fff"/>
+    <ellipse id="Oval-6" cx="0.725" cy="0.593" rx="0.725" ry="0.593" transform="translate(15.825 5.004)" fill="#fff"/>
+    <ellipse id="Oval-7" cx="0.738" cy="0.604" rx="0.738" ry="0.604" transform="translate(11.815 4.187)" fill="#fff"/>
+    <ellipse id="Oval-8" cx="0.619" cy="0.506" rx="0.619" ry="0.506" transform="translate(11.29 5.753)" fill="#fff"/>
+    <ellipse id="Oval-9" cx="0.614" cy="0.503" rx="0.614" ry="0.503" transform="translate(13.51 6.005)" fill="#fff"/>
+    <ellipse id="Oval-10" cx="0.62" cy="0.507" rx="0.62" ry="0.507" transform="translate(15.273 6.555)" fill="#fff"/>
+    <ellipse id="Oval-11" cx="0.523" cy="0.428" rx="0.523" ry="0.428" transform="translate(14.493 7.753)" fill="#fff"/>
+    <ellipse id="Oval-12" cx="0.534" cy="0.437" rx="0.534" ry="0.437" transform="translate(12.706 7.184)" fill="#fff"/>
+    <ellipse id="Oval-13" cx="0.529" cy="0.433" rx="0.529" ry="0.433" transform="translate(10.497 6.937)" fill="#fff"/>
+    <ellipse id="Oval-14" cx="0.461" cy="0.377" rx="0.461" ry="0.377" transform="translate(11.793 8.026)" fill="#fff"/>
+    <ellipse id="Oval-15" cx="0.465" cy="0.381" rx="0.465" ry="0.381" transform="translate(13.564 8.581)" fill="#fff"/>
+    <ellipse id="Oval-16" cx="0.367" cy="0.3" rx="0.367" ry="0.3" transform="translate(12.659 9.154)" fill="#fff"/>
+    <ellipse id="Oval-17" cx="0.333" cy="0.273" rx="0.333" ry="0.273" transform="translate(11.743 9.433)" fill="#fff"/>
+    <ellipse id="Oval-18" cx="0.396" cy="0.324" rx="0.396" ry="0.324" transform="translate(10.855 8.587)" fill="#fff"/>
+    <ellipse id="Oval-19" cx="0.46" cy="0.377" rx="0.46" ry="0.377" transform="translate(9.577 7.779)" fill="#fff"/>
+    <ellipse id="Oval-20" cx="0.992" cy="0.812" rx="0.992" ry="0.812" transform="translate(12.678 11.45)" fill="#fff"/>
+    <ellipse id="Oval-21" cx="0.827" cy="0.677" rx="0.827" ry="0.677" transform="translate(10.429 10.725)" fill="#fff"/>
+    <ellipse id="Oval-22" cx="0.834" cy="0.683" rx="0.834" ry="0.683" transform="translate(9.048 12.135)" fill="#fff"/>
+    <ellipse id="Oval-23" cx="0.723" cy="0.591" rx="0.723" ry="0.591" transform="translate(8.741 9.691)" fill="#fff"/>
+    <ellipse id="Oval-24" cx="0.721" cy="0.59" rx="0.721" ry="0.59" transform="translate(7.37 11.134)" fill="#fff"/>
+    <ellipse id="Oval-25" cx="0.719" cy="0.588" rx="0.719" ry="0.588" transform="translate(5.897 12.116)" fill="#fff"/>
+    <ellipse id="Oval-26" cx="0.612" cy="0.501" rx="0.612" ry="0.501" transform="translate(4.767 11.009)" fill="#fff"/>
+    <ellipse id="Oval-27" cx="0.614" cy="0.502" rx="0.614" ry="0.502" transform="translate(6.246 10.025)" fill="#fff"/>
+    <ellipse id="Oval-28" cx="0.614" cy="0.503" rx="0.614" ry="0.503" transform="translate(7.627 8.584)" fill="#fff"/>
+    <ellipse id="Oval-29" cx="0.532" cy="0.435" rx="0.532" ry="0.435" transform="translate(5.593 8.911)" fill="#fff"/>
+    <ellipse id="Oval-30" cx="0.527" cy="0.431" rx="0.527" ry="0.431" transform="translate(4.125 9.896)" fill="#fff"/>
+    <ellipse id="Oval-31" cx="0.456" cy="0.373" rx="0.456" ry="0.373" transform="translate(3.854 8.862)" fill="#fff"/>
+    <ellipse id="Oval-32" cx="0.391" cy="0.32" rx="0.391" ry="0.32" transform="translate(3.903 7.957)" fill="#fff"/>
+    <ellipse id="Oval-33" cx="0.333" cy="0.273" rx="0.333" ry="0.273" transform="translate(4.163 7.211)" fill="#fff"/>
+    <ellipse id="Oval-34" cx="0.396" cy="0.324" rx="0.396" ry="0.324" transform="translate(5.375 6.973)" fill="#fff"/>
+    <ellipse id="Oval-35" data-name="Oval" cx="0.461" cy="0.377" rx="0.461" ry="0.377" transform="translate(6.704 6.433)" fill="#fff"/>
+    <ellipse id="Oval-36" data-name="Oval" cx="0.525" cy="0.429" rx="0.525" ry="0.429" transform="translate(6.975 7.473)" fill="#fff"/>
+    <ellipse id="Oval-37" data-name="Oval" cx="0.457" cy="0.374" rx="0.457" ry="0.374" transform="translate(5.332 7.883)" fill="#fff"/>
+    <ellipse id="Oval-38" data-name="Oval" cx="0.989" cy="0.809" rx="0.989" ry="0.809" transform="translate(0.007 6.522)" fill="#fff"/>
+    <ellipse id="Oval-39" data-name="Oval" cx="0.847" cy="0.693" rx="0.847" ry="0.693" transform="translate(2.287 5.366)" fill="#fff"/>
+    <ellipse id="Oval-40" data-name="Oval" cx="0.843" cy="0.689" rx="0.843" ry="0.689" transform="translate(1.453 3.673)" fill="#fff"/>
+    <ellipse id="Oval-41" data-name="Oval" cx="0.722" cy="0.591" rx="0.722" ry="0.591" transform="translate(3.635 3.056)" fill="#fff"/>
+    <ellipse id="Oval-42" data-name="Oval" cx="0.725" cy="0.593" rx="0.725" ry="0.593" transform="translate(4.477 4.746)" fill="#fff"/>
+    <ellipse id="Oval-43" data-name="Oval" cx="0.617" cy="0.505" rx="0.617" ry="0.505" transform="translate(6.46 4.563)" fill="#fff"/>
+    <ellipse id="Oval-44" data-name="Oval" cx="0.531" cy="0.435" rx="0.531" ry="0.435" transform="translate(8.167 4.702)" fill="#fff"/>
+    <ellipse id="Oval-45" data-name="Oval" cx="0.447" cy="0.366" rx="0.447" ry="0.366" transform="translate(9.589 5.081)" fill="#fff"/>
+    <ellipse id="Oval-46" data-name="Oval" cx="0.39" cy="0.319" rx="0.39" ry="0.319" transform="translate(9.818 3.894)" fill="#fff"/>
+    <ellipse id="Oval-47" data-name="Oval" cx="0.452" cy="0.37" rx="0.452" ry="0.37" transform="translate(8.727 3.381)" fill="#fff"/>
+    <ellipse id="Oval-48" data-name="Oval" cx="0.528" cy="0.432" rx="0.528" ry="0.432" transform="translate(7.328 3.009)" fill="#fff"/>
+    <ellipse id="Oval-49" data-name="Oval" cx="0.618" cy="0.505" rx="0.618" ry="0.505" transform="translate(5.622 2.871)" fill="#fff"/>
+    <ellipse id="Oval-50" data-name="Oval" cx="0.7" cy="0.573" rx="0.7" ry="0.573" transform="translate(3.359 1.535)" fill="#fff"/>
+    <ellipse id="Oval-51" data-name="Oval" cx="0.618" cy="0.506" rx="0.618" ry="0.506" transform="translate(5.315 1.331)" fill="#fff"/>
+    <ellipse id="Oval-52" data-name="Oval" cx="0.533" cy="0.436" rx="0.533" ry="0.436" transform="translate(7.022 1.47)" fill="#fff"/>
+    <ellipse id="Oval-53" data-name="Oval" cx="0.449" cy="0.367" rx="0.449" ry="0.367" transform="translate(8.435 1.849)" fill="#fff"/>
+    <ellipse id="Oval-54" data-name="Oval" cx="0.401" cy="0.328" rx="0.401" ry="0.328" transform="translate(9.504 2.353)" fill="#fff"/>
+    <ellipse id="Oval-55" data-name="Oval" cx="0.33" cy="0.27" rx="0.33" ry="0.27" transform="translate(10.321 2.956)" fill="#fff"/>
+  </g>
+</svg>
